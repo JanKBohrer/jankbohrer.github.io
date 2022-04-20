@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://jankbohrer.github.io/files/CV_only.pdf)
+[Download CV here](https://jankbohrer.github.io/files/CV_Bohrer.pdf)
 
 Experience
 ------
 * 05/2020 - 07/2021: Wind resource assessor 
-  * Wind farm developer UKA, Meissen
-  * Germany Wind potential assessment for wind farm sites
+  * Wind farm developer UKA, Meissen, Germany
+  * Wind potential assessment for wind farm sites
 
 * 10/2018 - 03/2020: Research assistant
   * Leibniz Institute for Tropospheric Research, Leipzig, Germany
