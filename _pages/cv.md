@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://jankbohrer.github.io/files/CV_only.pdf)
+[Download CV here](https://jankbohrer.github.io/files/CV_only.pdf)
 
 Experience
 ------
