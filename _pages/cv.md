@@ -13,7 +13,7 @@ redirect_from:
 
 [My Theses (MSc and MSc)](https://github.com/JanKBohrer/Theses)
 
-[My publications, posters and papers](https://github.com/JanKBohrer/Publications-Posters-and-Papers)
+[Publications, posters and papers](https://github.com/JanKBohrer/Publications-Posters-and-Papers)
 
 Experience
 ------
