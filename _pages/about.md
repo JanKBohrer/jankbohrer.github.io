@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Master Student at the Von Karman Institute for Fluid Dynamics (VKI), currently working on LIDAR based wind measurements and wind farm layout optimization and control, including data-driven methods. I have a Master in Physics and a Bachelor in Energy Science and worked as wind resource assessor at a wind farm developer in Germany.
+I am a Research Master Student at the Von Karman Institute for Fluid Dynamics (VKI), currently working on LIDAR based wind measurements and wind farm wake interaction and layout optimization, including data-driven methods. I have a Master in Physics and a Bachelor in Energy Science and worked as wind resource assessor at a wind farm developer in Germany.
 
 ## Interests
 
