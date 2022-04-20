@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://jankbohrer.github.io/files/CV_Bohrer.pdf)
+[Download my CV](https://jankbohrer.github.io/files/CV_Bohrer.pdf)
+
+[My Theses (MSc and MSc)](https://github.com/JanKBohrer/Theses)
+
+[My publications, posters and papers](https://github.com/JanKBohrer/Publications-Posters-and-Papers)
 
 Experience
 ------
