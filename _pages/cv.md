@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV](https://jankbohrer.github.io/files/CV_Bohrer.pdf)
+[Download CV](https://jankbohrer.github.io/files/CV_Bohrer.pdf)
 
-[My Theses (MSc and MSc)](https://github.com/JanKBohrer/Theses)
+[My theses (MSc and MSc)](https://github.com/JanKBohrer/Theses)
 
 [Publications, posters and papers](https://github.com/JanKBohrer/Publications-Posters-and-Papers)
 
