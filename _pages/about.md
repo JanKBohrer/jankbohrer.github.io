@@ -16,4 +16,4 @@ I am a Research Master Student at the Von Karman Institute for Fluid Dynamics (V
 - Renewable energies, wind farm modeling and control, wake interactions and vortex dynamics
 - Sustainability, climate change mitigation, understanding and preservation of natural ecosystems
 
-###[CV](https://jankbohrer.github.io/cv/)
+### [CV](https://jankbohrer.github.io/cv/)
