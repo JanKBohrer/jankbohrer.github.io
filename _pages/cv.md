@@ -49,7 +49,7 @@ For my Master thesis, I wrote a Python program from scratch for the simulation o
 
 Publications, Posters and Papers
 ------
-| Source  | Citation |
+| Format  | Citation |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------------|
 
 | Journal article   | J.K. Bohrer, K. Schröer, L. Brendel and D.E. Wolf. *Thermal resistance of twist boundaries in silicon nanowires by nonequilibrium molecular dynamics*. AIP Advances 7, 045105 (2017), (https://doi.org/10.1063/1.4979982) |
