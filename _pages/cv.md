@@ -12,7 +12,7 @@ Links
 ------
 [Download CV](https://jankbohrer.github.io/files/CV_Bohrer.pdf)
 
-[Theses (MSc and BSc)](https://github.com/JanKBohrer/Theses)
+[Theses (MSc Physics and BSc Energy Science)](https://github.com/JanKBohrer/Theses)
 
 [Publications, Posters and Papers](https://github.com/JanKBohrer/Publications-Posters-and-Papers)
 
