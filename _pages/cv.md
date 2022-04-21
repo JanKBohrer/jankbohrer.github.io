@@ -51,6 +51,7 @@ Publications, Posters and Papers
 ------
 | Source  | Citation |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------------|
+
 | Journal article   | J.K. Bohrer, K. Schröer, L. Brendel and D.E. Wolf. *Thermal resistance of twist boundaries in silicon nanowires by nonequilibrium molecular dynamics*. AIP Advances 7, 045105 (2017), (https://doi.org/10.1063/1.4979982) |
 | Conference poster | J.K. Bohrer and O. Knoth. *Euler-Lagrangian cloud model with dynamic particle forces*. Workshop on Eulerian vs. Lagrangian methods for cloud microphysics, Cracow, Poland, April 15-17, 2019 (http://ww2.ii.uj.edu.pl/~arabas/workshop_2019/) |
 | Conference poster | J.K. Bohrer and O. Knoth. *Discrete particle methods for a scalable atmospheric dynamics solver*. Fourth Leibniz Mathematical Modeling and Simulation Network days, Kühlungsborn, Germany, March 20-22, 2019 (https://www.wias-berlin.de/workshops/MMSDays19/) |
