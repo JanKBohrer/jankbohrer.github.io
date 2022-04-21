@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Links
+------
 [Download CV](https://jankbohrer.github.io/files/CV_Bohrer.pdf)
 
-[My theses (MSc and MSc)](https://github.com/JanKBohrer/Theses)
+[Theses (MSc and BSc)](https://github.com/JanKBohrer/Theses)
 
 [Publications, Posters and Papers](https://github.com/JanKBohrer/Publications-Posters-and-Papers)
 
