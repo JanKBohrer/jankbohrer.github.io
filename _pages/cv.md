@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Links
 ------
 [Download CV](https://jankbohrer.github.io/files/CV_Bohrer.pdf)
