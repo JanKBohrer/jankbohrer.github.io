@@ -19,6 +19,10 @@ Links
 
 Experience
 ------
+* From 10/2022: Research assistant
+  * ForWind - Center for Wind Energy Research at the University of Oldenburg
+  * Measurement based wind field reconstruction and wind farm control optimization
+
 * 05/2020 - 07/2021: Wind resource assessor 
   * Wind farm developer UKA, Meissen, Germany
   * Wind potential assessment for wind farm sites
@@ -41,19 +45,20 @@ Experience
 
 Education
 ------
+* From 10/2022: PhD Student at the Institute of Physics, University of Oldenburg
 * 09/2021 - 07/2022: Reserach Master in Fluid Dynamics, von Karman Institute for Fluid Dynamics, Belgium (Prof. J. van Beeck)
 * 2019: MSc in Physics, University Freiburg and Leibniz Institute for Tropospheric Research (Prof. T. Schilling and Prof. I. Tegen)
 * 2015: BSc in Energy Science, University Duisburg-Essen (Prof. D.E. Wolf)
 
 Programming and Software
 ------
-For my Master thesis, I wrote a Python program from scratch for the simulation of cloud particles, utilizing the just-in-time compiler Numba. Furthermore, I have advanced experience with data analysis and visualization and basic knowledge of data driven optimization methods in Python. Additionally, I can read and write C/C++ on a basic level and got some experience with CFD codes (OpenFOAM and Cadence OMNIS). During my time as wind farm assessor, I worked with EMD windPRO and Windographer for Wind farm planning and wind data analysis.
+For my Master thesis, I wrote a Python program from scratch for the simulation of cloud particles ([Code link](https://github.com/JanKBohrer/LacmoPy)), utilizing the just-in-time compiler Numba. Furthermore, I have advanced experience with data analysis and visualization and basic knowledge of data driven optimization methods in Python. Additionally, I can read and write C/C++ on a basic level and got some experience with CFD codes (OpenFOAM and Cadence OMNIS). During my time as wind farm assessor, I worked with EMD windPRO and Windographer for Wind farm planning and wind data analysis. I am currently learning Matlab and Simulink for optimization and real time control applications
 
 Publications, Posters and Papers
 ------
 
-| Journal article   | J.K. Bohrer, K. Schröer, L. Brendel and D.E. Wolf. *Thermal resistance of twist boundaries in silicon nanowires by nonequilibrium molecular dynamics*. AIP Advances 7, 045105 (2017), (https://doi.org/10.1063/1.4979982) |
-| Conference poster | J.K. Bohrer and O. Knoth. *Euler-Lagrangian cloud model with dynamic particle forces*. Workshop on Eulerian vs. Lagrangian methods for cloud microphysics, Cracow, Poland, April 15-17, 2019 (http://ww2.ii.uj.edu.pl/~arabas/workshop_2019/) |
-| Conference poster | J.K. Bohrer and O. Knoth. *Discrete particle methods for a scalable atmospheric dynamics solver*. Fourth Leibniz Mathematical Modeling and Simulation Network days, Kühlungsborn, Germany, March 20-22, 2019 (https://www.wias-berlin.de/workshops/MMSDays19/) |
-| Conference poster | W. Kramer, J.K. Bohrer and M. Bitterling. *Künstliche Neuronale Netzwerke für die Anwendung in der Solarthermie*. Poster in Ostbayerisches Technologie-Transfer-Institut e.V. -OTTI-, Regensburg, 27. Symposium Thermische Solarenergie, Bad Staffelstein, 2017, pp. 36-37 (ANNSolar: https://www.ise.fraunhofer.de/en/research-projects/annsolar.html) |
-| Term paper        | J.K. Bohrer. *Generation of Markov state models for the description of protein dynamics from molecular dynamics simulation data*. Term paper in Stochastic Dynamics (2018). University Freiburg, Germany, Institute for Physics. (https://github.com/JanKBohrer/Publications-Posters-and-Papers/blob/master/Bohrer_2018_Term_Paper_Markov_State_Models.pdf) |
+| Journal article   | J.K. Bohrer, K. Schröer, L. Brendel and D.E. Wolf. *Thermal resistance of twist boundaries in silicon nanowires by nonequilibrium molecular dynamics*. AIP Advances 7, 045105 (2017), [DOI Link](https://doi.org/10.1063/1.4979982) |
+| Conference poster | J.K. Bohrer and O. Knoth. *Euler-Lagrangian cloud model with dynamic particle forces*. Workshop on Eulerian vs. Lagrangian methods for cloud microphysics, Cracow, Poland, April 15-17, 2019, [Link](http://ww2.ii.uj.edu.pl/~arabas/workshop_2019/) |
+| Conference poster | J.K. Bohrer and O. Knoth. *Discrete particle methods for a scalable atmospheric dynamics solver*. Fourth Leibniz Mathematical Modeling and Simulation Network days, Kühlungsborn, Germany, March 20-22, 2019, [Link](https://www.wias-berlin.de/workshops/MMSDays19/) |
+| Conference poster | W. Kramer, J.K. Bohrer and M. Bitterling. *Künstliche Neuronale Netzwerke für die Anwendung in der Solarthermie*. Poster in Ostbayerisches Technologie-Transfer-Institut e.V. -OTTI-, Regensburg, 27. Symposium Thermische Solarenergie, Bad Staffelstein, 2017, pp. 36-37, [ANNSolar Link](https://www.ise.fraunhofer.de/en/research-projects/annsolar.html) |
+| Term paper        | J.K. Bohrer. *Generation of Markov state models for the description of protein dynamics from molecular dynamics simulation data*. Term paper in Stochastic Dynamics (2018). University Freiburg, Germany, Institute for Physics, [Link](https://github.com/JanKBohrer/Publications-Posters-and-Papers/blob/master/Bohrer_2018_Term_Paper_Markov_State_Models.pdf) |
