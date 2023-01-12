@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Master Student at the Von Karman Institute for Fluid Dynamics (VKI), currently working on LIDAR based wind measurements and wind farm wake interaction and layout optimization, including data-driven methods. I have a Master in Physics and a Bachelor in Energy Science and worked as wind resource assessor at a wind farm developer in Germany.
-
+I am a Research Assistant and PhD Candidate at ForWind - Center for Wind Energy Research at the University of Oldenburg, currently working on measurement based wind field reconstruction and wind farm control optimization. I completed the Research Master in Fluid Dynamics at the Von Karman Institute (VKI) in 2022. I have a Master in Physics and a Bachelor in Energy Science and worked as wind resource assessor at a wind farm developer in Germany. 
 ## Interests
 
 - Dynamics of complex systems, atmospheric physics and earth system modeling
