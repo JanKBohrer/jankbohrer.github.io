@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jan Kai Bohrer"
   avatar           : "chosen01_red3.jpg"
-  bio              : "Wind field reconstruction based on measurement data and wind farm control"
+  bio              : "Measurement based wind field reconstruction and wind farm control optimization"
   location         : "Oldenburg, Germany"
   employer         : "ForWind"
   pubmed           : 
