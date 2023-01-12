@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jan Kai Bohrer"
   avatar           : "chosen01_red3.jpg"
-  bio              : "Atmospheric physics, wind farm optimization and LIDAR based flow measurements"
-  location         : "Sint-Genesius-Rode, Belgium"
-  employer         :
+  bio              : "Wind field reconstruction based on measurement data and wind farm control"
+  location         : "Oldenburg, Germany"
+  employer         : "Forwind - Center for Wind Energy Research at the University Oldenburg"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-pDtjn8AAAAJ"
-  email            : "jan.bohrer@posteo.de"
+  email            : "jan.bohrer@uni-oldenburg.de"
   researchgate     : "https://www.researchgate.net/profile/Jan-Bohrer"
   uri              :
   bitbucket        :
