@@ -45,7 +45,7 @@ Experience
 
 Education
 ------
-* From 10/2022: PhD Student at the Institute of Physics, University of Oldenburg
+* Since 10/2022: PhD Student at the Institute of Physics, University of Oldenburg
 * 09/2021 - 07/2022: Reserach Master in Fluid Dynamics, von Karman Institute for Fluid Dynamics, Belgium (Prof. J. van Beeck)
 * 2019: MSc in Physics, University Freiburg and Leibniz Institute for Tropospheric Research (Prof. T. Schilling and Prof. I. Tegen)
 * 2015: BSc in Energy Science, University Duisburg-Essen (Prof. D.E. Wolf)
