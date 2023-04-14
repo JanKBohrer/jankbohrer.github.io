@@ -19,7 +19,7 @@ Links
 
 Experience
 ------
-* From 10/2022: Research assistant
+* Since 10/2022: Research assistant
   * ForWind - Center for Wind Energy Research at the University of Oldenburg
   * Measurement based wind field reconstruction and wind farm control optimization
 
